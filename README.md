@@ -1,21 +1,6 @@
 ## Hi there 👋
 
-<!--
-**DionesioJr/dionesiojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hello, I am Dionésio, welcome to my github
+### Hello, I am Dionésio, welcome to my github ✨
 
 I'm passionate about technology, and what I like to do is understand how it all works.
 <br>
@@ -45,7 +30,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 
 #### UX / UI ⚡
 <div text-align="justify">
-<img src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=fff&labelColor=9D56F7" />
+<img src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=fff&labelColor=F43700" />
 </div>
 
 #### Frontend ⚡
@@ -59,7 +44,6 @@ I'm passionate about technology, and what I like to do is understand how it all 
 </div>
 
 #### Backend ⚡
-
 <div text-align="justify">
 <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=fff&labelColor=7377AD" />
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=nodejs&logoColor=fff&labelColor=1FC41A" />
@@ -68,20 +52,15 @@ I'm passionate about technology, and what I like to do is understand how it all 
 </div>
 
 #### Mobile ⚡
-
 <div text-align="justify">
 <img src="https://img.shields.io/badge/Flutter-6b89ff?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=6b89ff" />
 </div>
 
 #### DB ⚡
-
 <div text-align="justify">
 <img src="https://img.shields.io/badge/MariaDB-012A62?style=for-the-badge&logo=mariadb&logoColor=fff&labelColor=012A62" />
 <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=31648C" />
 <img src="https://img.shields.io/badge/MongoDB-22A357?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=22A357" />
-  
-  
-  
 </div>
 
 
