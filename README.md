@@ -51,6 +51,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=fff&labelColor=6C1FFF" />
 <img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=91FF49" />
 <img src="https://img.shields.io/badge/Flutter-6b89ff?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=6b89ff" />
+<img src="https://img.shields.io/badge/html%205-laravel?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=orange" />
 </div>
 
 <br>
