@@ -48,7 +48,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=fff&labelColor=7377AD" />
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=nodejs&logoColor=fff&labelColor=1FC41A" />
 <img src="https://img.shields.io/badge/laravel-EC615C?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=EC615C" />
-<img src="https://img.shields.io/badge/Phyton-356FA0?style=for-the-badge&logo=phyton&logoColor=fff&labelColor=F7C73E" />
+<img src="https://img.shields.io/badge/Python-356FA0?style=for-the-badge&logo=python&logoColor=fff&labelColor=F7C73E" />
 </div>
 
 #### Mobile ⚡
