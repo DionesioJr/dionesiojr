@@ -59,7 +59,6 @@ I'm passionate about technology, and what I like to do is understand how it all 
 - Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
 
 <br>
-<br>
 
 ### How to reach me: 🔭
 
