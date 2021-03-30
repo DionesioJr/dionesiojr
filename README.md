@@ -62,7 +62,6 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=fff&labelColor=7377AD" />
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
-<img src="https://img.shields.io/badge/Flutter-51BFF0?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=51BFF0" />
 <img src="https://img.shields.io/badge/laravel-EC615C?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=EC615C" />
 </div>
 
@@ -79,12 +78,6 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/MongoDB-22A357?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=22A357" />
 </div>
 
-<br>
-
-- I’m currently learning  Flutter, HTML, CSS, MongoDb and Ux and Ui.
-- Ask me about Web development
-
-<br>
 
 ### How to reach me: 🔭
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-13d627?style=for-the-badge&logo=WhatsApp&logoColor=fff&labelColor=13d627)](https://api.whatsapp.com/send?phone=5581984338266&text=Oi%20Dion%C3%A9sio,%20meu%20nome%20%C3%A9)
