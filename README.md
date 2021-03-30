@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Dionésio Guerra  ⚡ 
 
 ### Hello, I am Dionésio, welcome to my github
 
@@ -39,7 +38,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <br>
 <br>
 
-### Technologies
+### Technologies ⚡
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
@@ -62,7 +61,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <br>
 <br>
 
-### How to reach me:
+### How to reach me: 🔭
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/dionesiojr/) 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-1781EB?style=for-the-badge&logo=Telegram&logoColor=fff&labelColor=1781EB)](tg://resolve?domain=dionesiojr/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-1781EB?style=for-the-badge&logo=Telegram&logoColor=fff&labelColor=1781EB)](https://tg://resolve?domain=dionesiojr/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-13d627?style=for-the-badge&logo=WhatsApp&logoColor=fff&labelColor=13d627)](https://tg://resolve?domain=dionesiojr/)
