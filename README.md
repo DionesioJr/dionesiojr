@@ -44,13 +44,13 @@ I'm passionate about technology, and what I like to do is understand how it all 
 ### Technologies ⚡
 
 <div text-align="justify">
-<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
-<img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
-<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
+<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=fff&labelColor=orange" />
+<img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=fff&labelColor=5188FE" />
+<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=FFDC0B" />
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
-<img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=6C1FFF" />
-<img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=5C290E&labelColor=91FF49" />
-<img src="https://img.shields.io/badge/Flutter-3f05ff?style=for-the-badge&logo=flutter&logoColor=5C290E&labelColor=3f05ff" />
+<img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=fff&labelColor=6C1FFF" />
+<img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=91FF49" />
+<img src="https://img.shields.io/badge/Flutter-6b89ff?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=6b89ff" />
 </div>
 
 <br>
