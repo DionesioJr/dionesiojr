@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 I'm passionate about technology, and what I like to do is understand how it all works.
 <br>
 <br>
+
 ### Social media 😄
 
 <a href="https://twitter.com/dionesiojr">
@@ -37,6 +38,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 </a>
 <br>
 <br>
+
 ### Technologies
 
 <div text-align="justify">
@@ -49,7 +51,6 @@ I'm passionate about technology, and what I like to do is understand how it all 
 </div>
 
 <br>
-<br>
 
 <!-- - I’m currently working on ... -->
 
@@ -60,7 +61,8 @@ I'm passionate about technology, and what I like to do is understand how it all 
 
 <br>
 <br>
+
 ### How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/dionesiojr/) 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-1781EB?style=for-the-badge&logo=Telegram&logoColor=fff&labelColor=1781EB)](tg://resolve?domain=dionesiojr)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-1781EB?style=for-the-badge&logo=Telegram&logoColor=fff&labelColor=1781EB)](tg://resolve?domain=dionesiojr/)
