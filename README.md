@@ -35,6 +35,9 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <a href="https://www.instagram.com/dionesiojr/">
   <img align="left" alt="Dionésio Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="tg://resolve?domain=dionesiojr/">
+  <img align="left" alt="Dionésio Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 <br>
 <br>
 
@@ -47,20 +50,15 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
 <img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=6C1FFF" />
 <img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=5C290E&labelColor=91FF49" />
+<img src="https://img.shields.io/badge/Flutter-3f05ff?style=for-the-badge&logo=flutter&logoColor=5C290E&labelColor=3f05ff" />
 </div>
 
 <br>
 
-<!-- - I’m currently working on ... -->
-
-- I’m currently learning React.Js and Flutter, HTML, CSS, MongoDb and Ux and Ui.
-- Ask me about Interface Design
-- How to reach me: LinkedIn and email
-- Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
+- I’m currently learning  Flutter, HTML, CSS, MongoDb and Ux and Ui.
+- Ask me about Web development
 
 <br>
 
 ### How to reach me: 🔭
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-1781EB?style=for-the-badge&logo=Telegram&logoColor=fff&labelColor=1781EB)](tg://resolve?domain=dionesiojr/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-13d627?style=for-the-badge&logo=WhatsApp&logoColor=fff&labelColor=13d627)](https://api.whatsapp.com/send?phone=5581984338266&text=Oi%20Dion%C3%A9sio,%20meu%20nome%20%C3%A9)
