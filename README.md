@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **DionesioJr/dionesiojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Dionésio Guerra  ⚡ 
+## Dionésio Guerra  ⚡ 
 
 ### Hello, I am Dionésio, welcome to my github
 
 I'm passionate about technology, and what I like to do is understand how it all works.
 <br>
 
-## Social media 😄
+### Social media 😄
 
 <a href="https://twitter.com/dionesiojr">
   <img align="left" alt="Dionésio Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -36,7 +36,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
   <img align="left" alt="Dionésio Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-## Technologies
+### Technologies
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
