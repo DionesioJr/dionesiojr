@@ -76,7 +76,11 @@ I'm passionate about technology, and what I like to do is understand how it all 
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/MariaDB-012A62?style=for-the-badge&logo=mariadb&logoColor=fff&labelColor=012A62" />
+<img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=31648C" />
 <img src="https://img.shields.io/badge/MongoDB-22A357?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=22A357" />
+  
+  
+  
 </div>
 
 
