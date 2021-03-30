@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm passionate about technology, and what I like to do is understand how it all works.
 <br>
-
+<br>
 ### Social media 😄
 
 <a href="https://twitter.com/dionesiojr">
@@ -35,7 +35,8 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <a href="https://www.instagram.com/dionesiojr/">
   <img align="left" alt="Dionésio Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br>
+<br>
 ### Technologies
 
 <div text-align="justify">
@@ -57,8 +58,9 @@ I'm passionate about technology, and what I like to do is understand how it all 
 - How to reach me: LinkedIn and email
 - Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
 
+<br>
+<br>
 ### How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/dionesiojr/) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-1781EB?style=for-the-badge&logo=Telegram&logoColor=fff&labelColor=1781EB)](tg://resolve?domain=dionesiojr)
-[![Hotmail Badge](https://img.shields.io/badge/Outlook-1781EB?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1781EB)](mailto:dionesiojr@hotmail.com)
