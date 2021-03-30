@@ -74,7 +74,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 #### DB ⚡
 
 <div text-align="justify">
-<img src="https://img.shields.io/badge/MariaDB-012A62?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=012A62" />
+<img src="https://img.shields.io/badge/MariaDB-012A62?style=for-the-badge&logo=mariadb&logoColor=fff&labelColor=012A62" />
 <img src="https://img.shields.io/badge/MongoDB-22A357?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=22A357" />
 </div>
 
