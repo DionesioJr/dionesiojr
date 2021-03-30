@@ -40,7 +40,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=FFDC0B" />
 <img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=fff&labelColor=6C1FFF" />
 <img src="https://img.shields.io/badge/UIkit-blue?style=for-the-badge&logo=uikit&logoColor=fff&labelColor=blue" />
-<img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vuejs&logoColor=fff&labelColor=41B883" />
+<img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue&logoColor=fff&labelColor=41B883" />
 </div>
 
 #### Backend ⚡
@@ -48,7 +48,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=fff&labelColor=7377AD" />
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=nodejs&logoColor=fff&labelColor=1FC41A" />
 <img src="https://img.shields.io/badge/laravel-EC615C?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=EC615C" />
-<img src="https://img.shields.io/badge/Python-356FA0?style=for-the-badge&logo=python&logoColor=fff&labelColor=F7C73E" />
+<img src="https://img.shields.io/badge/Python-F7C73E?style=for-the-badge&logo=python&logoColor=fff&labelColor=F7C73E" />
 </div>
 
 #### Mobile ⚡
