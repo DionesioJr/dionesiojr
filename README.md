@@ -43,7 +43,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 
 ### Technologies ⚡
 
-#### UX / UI
+#### UX / UI ⚡
 <div text-align="justify">
 <img src="https://img.shields.io/badge/Figima-9D56F7?style=for-the-badge&logo=figima&logoColor=fff&labelColor=9D56F7" />
 </div>
