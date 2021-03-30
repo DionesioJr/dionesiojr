@@ -41,17 +41,40 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <br>
 <br>
 
-### Technologies ⚡
+### Technologies UX / UI / ⚡
+<div text-align="justify">
+<img src="https://img.shields.io/badge/Figima-orange?style=for-the-badge&logo=figima&logoColor=fff&labelColor=orange" />
+</div>
 
+### Technologies Frontend ⚡
 <div text-align="justify">
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=fff&labelColor=orange" />
 <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=fff&labelColor=5188FE" />
 <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=FFDC0B" />
-<img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
 <img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=fff&labelColor=6C1FFF" />
-<img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=91FF49" />
+<img src="https://img.shields.io/badge/UIkit-blue?style=for-the-badge&logo=uikit&logoColor=fff&labelColor=blue" />
+</div>
+
+### Technologies Backend ⚡
+
+<div text-align="justify">
+<img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=fff&labelColor=7377AD" />
+<img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
+<img src="https://img.shields.io/badge/Flutter-51BFF0?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=51BFF0" />
+<img src="https://img.shields.io/badge/laravel-EC615C?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=EC615C" />
+</div>
+
+### Technologies Mobile ⚡
+
+<div text-align="justify">
 <img src="https://img.shields.io/badge/Flutter-6b89ff?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=6b89ff" />
-<img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=orange" />
+</div>
+
+### Technologies DB ⚡
+
+<div text-align="justify">
+<img src="https://img.shields.io/badge/MariaDB-012A62?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=012A62" />
+<img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=91FF49" />
 </div>
 
 <br>
