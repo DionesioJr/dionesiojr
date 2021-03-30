@@ -45,7 +45,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 
 #### UX / UI ⚡
 <div text-align="justify">
-<img src="https://img.shields.io/badge/Figima-9D56F7?style=for-the-badge&logo=figima&logoColor=fff&labelColor=9D56F7" />
+<img src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=fff&labelColor=9D56F7" />
 </div>
 
 #### Frontend ⚡
@@ -55,6 +55,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=FFDC0B" />
 <img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=fff&labelColor=6C1FFF" />
 <img src="https://img.shields.io/badge/UIkit-blue?style=for-the-badge&logo=uikit&logoColor=fff&labelColor=blue" />
+<img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vuejs&logoColor=fff&labelColor=41B883" />
 </div>
 
 #### Backend ⚡
