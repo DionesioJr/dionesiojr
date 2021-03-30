@@ -41,12 +41,14 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <br>
 <br>
 
-### Technologies UX / UI / ⚡
+### Technologies ⚡
+
+#### UX / UI
 <div text-align="justify">
-<img src="https://img.shields.io/badge/Figima-orange?style=for-the-badge&logo=figima&logoColor=fff&labelColor=orange" />
+<img src="https://img.shields.io/badge/Figima-9D56F7?style=for-the-badge&logo=figima&logoColor=fff&labelColor=9D56F7" />
 </div>
 
-### Technologies Frontend ⚡
+#### Frontend ⚡
 <div text-align="justify">
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=fff&labelColor=orange" />
 <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=fff&labelColor=5188FE" />
@@ -55,7 +57,7 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/UIkit-blue?style=for-the-badge&logo=uikit&logoColor=fff&labelColor=blue" />
 </div>
 
-### Technologies Backend ⚡
+#### Backend ⚡
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=fff&labelColor=7377AD" />
@@ -64,17 +66,17 @@ I'm passionate about technology, and what I like to do is understand how it all 
 <img src="https://img.shields.io/badge/laravel-EC615C?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=EC615C" />
 </div>
 
-### Technologies Mobile ⚡
+#### Mobile ⚡
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/Flutter-6b89ff?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=6b89ff" />
 </div>
 
-### Technologies DB ⚡
+#### DB ⚡
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/MariaDB-012A62?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=012A62" />
-<img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=91FF49" />
+<img src="https://img.shields.io/badge/MongoDB-22A357?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=22A357" />
 </div>
 
 <br>
