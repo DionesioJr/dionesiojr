@@ -63,5 +63,5 @@ I'm passionate about technology, and what I like to do is understand how it all 
 
 ### How to reach me: 🔭
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-1781EB?style=for-the-badge&logo=Telegram&logoColor=fff&labelColor=1781EB)](https://tg://resolve?domain=dionesiojr/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-13d627?style=for-the-badge&logo=WhatsApp&logoColor=fff&labelColor=13d627)](https://api.whatsapp.com/send?phone=5581984338266&text=Oi Dionésio, meu nome é /)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-1781EB?style=for-the-badge&logo=Telegram&logoColor=fff&labelColor=1781EB)](tg://resolve?domain=dionesiojr/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-13d627?style=for-the-badge&logo=WhatsApp&logoColor=fff&labelColor=13d627)](https://api.whatsapp.com/send?phone=5581984338266&text=Oi%20Dion%C3%A9sio,%20meu%20nome%20%C3%A9)
